@@ -7,10 +7,11 @@
       "register_to_creative_menu ": true
     },
     "components": {
-      "minecraft:block_light_emission": 0,
-      "minecraft:destroy_time": 1,
-      "minecraft:explosion_resistance": 10,
-      "minecraft:friction": 0.6,
+      "minecraft:map_color": "#251610",
+      "minecraft:block_light_emission": 0.4,
+      "minecraft:destroy_time": 10,
+      "minecraft:explosion_resistance": 40,
+      "minecraft:friction": 1,
       "minecraft:flammable": {
         "flame_odds": 0,
         "burn_odds": 0
