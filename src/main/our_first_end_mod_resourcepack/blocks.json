@@ -1,0 +1,14 @@
+{
+  "format_version": "1.16.100",
+  "our_first_end_mod:obsidiend": {
+    "textures": {
+      "up": "our_first_end_mod_obsidiend_up",
+      "down": "our_first_end_mod_obsidiend_down",
+      "south": "our_first_end_mod_obsidiend_south",
+      "north": "our_first_end_mod_obsidiend_north",
+      "west": "our_first_end_mod_obsidiend_west",
+      "east": "our_first_end_mod_obsidiend_east"
+    },
+    "sound": "gravel"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "our_first_end_mod_obsidiend_up": {
+      "textures": [
+        "textures/blocks/end_hive_innards"
+      ]
+    },
+    "our_first_end_mod_obsidiend_down": {
+      "textures": [
+        "textures/blocks/end_hive_innards"
+      ]
+    },
+    "our_first_end_mod_obsidiend_south": {
+      "textures": [
+        "textures/blocks/end_hive_face"
+      ]
+    },
+    "our_first_end_mod_obsidiend_north": {
+      "textures": [
+        "textures/blocks/end_hive_face"
+      ]
+    },
+    "our_first_end_mod_obsidiend_west": {
+      "textures": [
+        "textures/blocks/end_hive_face"
+      ]
+    },
+    "our_first_end_mod_obsidiend_east": {
+      "textures": [
+        "textures/blocks/end_hive_face"
+      ]
+    }
+  }
+}
