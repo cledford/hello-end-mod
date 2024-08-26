@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "our_first_end_mod:end_scythe",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:foil": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:max_damage": 8000,
+      "minecraft:stacked_by_data": true,
+      "minecraft:hand_equipped": true,
+      "minecraft:creative_category": "Equipment"
+    }
+  }
+}

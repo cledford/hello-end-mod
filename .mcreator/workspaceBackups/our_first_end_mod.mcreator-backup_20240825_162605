@@ -8,7 +8,21 @@
       "registry_name": "obsidiend",
       "metadata": {
         "files": [
-          "src/main/our_first_end_mod_behaviourpack/blocks/obsidiend.json"
+          "src/main/our_first_end_mod_behaviourpack/blocks/obsidiend.json",
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_obsidiend.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomEndGemstone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_end_gemstone",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/custom_end_gemstone.json",
+          "src/main/our_first_end_mod_behaviourpack/items/custom_end_gemstone.json"
         ]
       }
     }
@@ -19,6 +33,7 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
+      "item.our_first_end_mod:custom_end_gemstone.name": "End Gemstone",
       "tile.our_first_end_mod:obsidiend.name": "Obsidiend"
     }
   },

@@ -50,19 +50,6 @@
           "src/main/our_first_end_mod_behaviourpack/recipes/end_gemstone_block_recipe.json"
         ]
       }
-    },
-    {
-      "name": "EndScythe",
-      "type": "tool",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "end_scythe",
-      "metadata": {
-        "files": [
-          "src/main/our_first_end_mod_resourcepack/items/end_scythe.json",
-          "src/main/our_first_end_mod_behaviourpack/items/end_scythe.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -72,7 +59,6 @@
   "language_map": {
     "en_us": {
       "item.our_first_end_mod:custom_end_gemstone.name": "End Gemstone",
-      "item.our_first_end_mod:end_scythe.name": "End Scythe",
       "tile.our_first_end_mod:end_gem_stone_block.name": "End Gem Stone Block",
       "tile.our_first_end_mod:obsidiend.name": "Obsidiend"
     }

@@ -33,6 +33,36 @@
       "textures": [
         "textures/blocks/end_hive_face"
       ]
+    },
+    "our_first_end_mod_end_gem_stone_block_up": {
+      "textures": [
+        "textures/blocks/endgemstoneblockface"
+      ]
+    },
+    "our_first_end_mod_end_gem_stone_block_down": {
+      "textures": [
+        "textures/blocks/endgemstoneblockface"
+      ]
+    },
+    "our_first_end_mod_end_gem_stone_block_south": {
+      "textures": [
+        "textures/blocks/endgemstoneblockface"
+      ]
+    },
+    "our_first_end_mod_end_gem_stone_block_north": {
+      "textures": [
+        "textures/blocks/endgemstoneblockface"
+      ]
+    },
+    "our_first_end_mod_end_gem_stone_block_west": {
+      "textures": [
+        "textures/blocks/endgemstoneblockface"
+      ]
+    },
+    "our_first_end_mod_end_gem_stone_block_east": {
+      "textures": [
+        "textures/blocks/endgemstoneblockface"
+      ]
     }
   }
 }

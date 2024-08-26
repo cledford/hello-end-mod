@@ -1,11 +1,28 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Obsidiend",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidiend",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/feature_rules/our_first_end_mod_obsidiend_ore_feature_rule.json",
+          "src/main/our_first_end_mod_behaviourpack/features/our_first_end_mod_obsidiend_ore_feature.json",
+          "src/main/our_first_end_mod_behaviourpack/blocks/obsidiend.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "tile.our_first_end_mod:obsidiend.name": "Obsidiend"
+    }
   },
   "foldersRoot": {
     "name": "~",

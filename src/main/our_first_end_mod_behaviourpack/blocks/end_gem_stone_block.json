@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.3",
+  "minecraft:block": {
+    "description": {
+      "identifier": "our_first_end_mod:end_gem_stone_block",
+      "is_experimental": false,
+      "register_to_creative_menu ": true
+    },
+    "components": {
+      "minecraft:loot": "loot_tables/blocks/our_first_end_mod_end_gem_stone_block.json",
+      "minecraft:block_light_emission": 0.8,
+      "minecraft:destroy_time": 1.4,
+      "minecraft:explosion_resistance": 17,
+      "minecraft:friction": 3.8,
+      "minecraft:flammable": {
+        "flame_odds": 0,
+        "burn_odds": 0
+      }
+    }
+  }
+}

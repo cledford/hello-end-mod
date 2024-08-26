@@ -10,5 +10,16 @@
       "east": "our_first_end_mod_obsidiend_east"
     },
     "sound": "gravel"
+  },
+  "our_first_end_mod:end_gem_stone_block": {
+    "textures": {
+      "up": "our_first_end_mod_end_gem_stone_block_up",
+      "down": "our_first_end_mod_end_gem_stone_block_down",
+      "south": "our_first_end_mod_end_gem_stone_block_south",
+      "north": "our_first_end_mod_end_gem_stone_block_north",
+      "west": "our_first_end_mod_end_gem_stone_block_west",
+      "east": "our_first_end_mod_end_gem_stone_block_east"
+    },
+    "sound": "gravel"
   }
 }

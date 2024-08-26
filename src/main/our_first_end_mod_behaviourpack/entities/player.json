@@ -13,6 +13,11 @@
           "damage": 1
         }
       },
+      "our_first_end_mod:end_scythe": {
+        "minecraft:attack": {
+          "damage": 15
+        }
+      },
       "minecraft:add_bad_omen": {
         "minecraft:spell_effects": {
           "add_effects": [
@@ -181,6 +186,19 @@
               ]
             },
             "event": "minecraft:event_normal_player"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "our_first_end_mod:end_scythe"
+                }
+              ]
+            },
+            "event": "our_first_end_mod:end_scythe"
           }
         ]
       }
@@ -193,7 +211,16 @@
           ]
         },
         "remove": {
-          "component_groups": []
+          "component_groups": [
+            "our_first_end_mod:end_scythe"
+          ]
+        }
+      },
+      "our_first_end_mod:end_scythe": {
+        "add": {
+          "component_groups": [
+            "our_first_end_mod:end_scythe"
+          ]
         }
       },
       "minecraft:gain_bad_omen": {

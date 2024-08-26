@@ -8,6 +8,8 @@
       "registry_name": "obsidiend",
       "metadata": {
         "files": [
+          "src/main/our_first_end_mod_behaviourpack/feature_rules/our_first_end_mod_obsidiend_ore_feature_rule.json",
+          "src/main/our_first_end_mod_behaviourpack/features/our_first_end_mod_obsidiend_ore_feature.json",
           "src/main/our_first_end_mod_behaviourpack/blocks/obsidiend.json"
         ]
       }

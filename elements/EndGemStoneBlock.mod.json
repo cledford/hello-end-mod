@@ -2,12 +2,12 @@
   "_fv": 66,
   "_type": "block",
   "definition": {
-    "texture": "end_hive_innards",
-    "textureTop": "end_hive_innards",
-    "textureLeft": "end_hive_face",
-    "textureFront": "end_hive_face",
-    "textureRight": "end_hive_face",
-    "textureBack": "end_hive_face",
+    "texture": "endgemstoneblockface",
+    "textureTop": "endgemstoneblockface",
+    "textureLeft": "endgemstoneblockface",
+    "textureFront": "endgemstoneblockface",
+    "textureRight": "endgemstoneblockface",
+    "textureBack": "endgemstoneblockface",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -33,12 +33,12 @@
         "subtract": false
       }
     ],
-    "name": "Obsidiend",
+    "name": "End Gem Stone Block",
     "specialInformation": {
       "fixedValue": []
     },
-    "hardness": 10.0,
-    "resistance": 40.0,
+    "hardness": 1.4000000000000001,
+    "resistance": 17.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTabs": [],
@@ -46,7 +46,7 @@
     "customDrop": {
       "value": "CUSTOM:CustomEndGemstone"
     },
-    "dropAmount": 1,
+    "dropAmount": 9,
     "useLootTableForDrops": false,
     "requiresCorrectTool": false,
     "enchantPowerBonus": 0.0,
@@ -63,7 +63,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "BLACK_TERRACOTTA",
+    "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": ""
     },
@@ -72,7 +72,7 @@
     "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
-    "slipperiness": 1.0,
+    "slipperiness": 3.8000000000000003,
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
@@ -96,7 +96,7 @@
     "stepSound": {
       "value": ""
     },
-    "luminance": 11,
+    "luminance": 12,
     "unbreakable": false,
     "vanillaToolTier": "NONE",
     "isBonemealable": false,
@@ -121,11 +121,11 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.END_STONE"
+        "value": "TAG:stone_ore_replaceables"
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 6,
+    "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 64

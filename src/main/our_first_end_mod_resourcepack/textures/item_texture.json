@@ -1,5 +1,12 @@
 {
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.items",
-  "texture_data": {}
+  "texture_data": {
+    "end_scythe": {
+      "textures": "textures/items/endscythe"
+    },
+    "custom_end_gemstone": {
+      "textures": "textures/items/endgemstone"
+    }
+  }
 }
