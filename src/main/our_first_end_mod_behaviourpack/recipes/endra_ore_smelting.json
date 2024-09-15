@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "our_first_end_mod:endra_ore_smelting"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "our_first_end_mod:endra_ore"
+    },
+    "output": {
+      "item": "our_first_end_mod:endra"
+    }
+  }
+}

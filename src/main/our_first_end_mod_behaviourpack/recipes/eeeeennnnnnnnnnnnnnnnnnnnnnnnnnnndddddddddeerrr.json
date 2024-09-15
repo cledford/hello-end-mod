@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "our_first_end_mod:eeeeennnnnnnnnnnnnnnnnnnnnnnnnnnndddddddddeerrr"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "our_first_end_mod:topofeyesword"
+      },
+      {
+        "item": "our_first_end_mod:liqideyesworddanglingthing"
+      }
+    ],
+    "result": {
+      "item": "our_first_end_mod:bladeofeyesword",
+      "count": 1
+    }
+  }
+}

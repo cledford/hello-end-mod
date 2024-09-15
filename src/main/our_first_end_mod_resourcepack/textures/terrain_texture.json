@@ -63,6 +63,246 @@
       "textures": [
         "textures/blocks/endgemstoneblockface"
       ]
+    },
+    "our_first_end_mod_endgrassblock_up": {
+      "textures": [
+        "textures/blocks/top"
+      ]
+    },
+    "our_first_end_mod_endgrassblock_down": {
+      "textures": [
+        "textures/blocks/endblock_bottom"
+      ]
+    },
+    "our_first_end_mod_endgrassblock_south": {
+      "textures": [
+        "textures/blocks/endblock_side"
+      ]
+    },
+    "our_first_end_mod_endgrassblock_north": {
+      "textures": [
+        "textures/blocks/endblock_side"
+      ]
+    },
+    "our_first_end_mod_endgrassblock_west": {
+      "textures": [
+        "textures/blocks/endblock_side"
+      ]
+    },
+    "our_first_end_mod_endgrassblock_east": {
+      "textures": [
+        "textures/blocks/endblock_side"
+      ]
+    },
+    "our_first_end_mod_enerwater_up": {
+      "textures": [
+        "textures/blocks/ener_esint"
+      ]
+    },
+    "our_first_end_mod_enerwater_down": {
+      "textures": [
+        "textures/blocks/ener_esint"
+      ]
+    },
+    "our_first_end_mod_enerwater_south": {
+      "textures": [
+        "textures/blocks/ener_esint"
+      ]
+    },
+    "our_first_end_mod_enerwater_north": {
+      "textures": [
+        "textures/blocks/ener_esint"
+      ]
+    },
+    "our_first_end_mod_enerwater_west": {
+      "textures": [
+        "textures/blocks/ener_esint"
+      ]
+    },
+    "our_first_end_mod_enerwater_east": {
+      "textures": [
+        "textures/blocks/ener_esint"
+      ]
+    },
+    "our_first_end_mod_endshroomy_up": {
+      "textures": [
+        "textures/blocks/eeeeeeeeeennnnnnnnnnndddddddd"
+      ]
+    },
+    "our_first_end_mod_endshroomy_down": {
+      "textures": [
+        "textures/blocks/eeeeeeeeeennnnnnnnnnndddddddd"
+      ]
+    },
+    "our_first_end_mod_endshroomy_south": {
+      "textures": [
+        "textures/blocks/eeeeeeeeeennnnnnnnnnndddddddd"
+      ]
+    },
+    "our_first_end_mod_endshroomy_north": {
+      "textures": [
+        "textures/blocks/eeeeeeeeeennnnnnnnnnndddddddd"
+      ]
+    },
+    "our_first_end_mod_endshroomy_west": {
+      "textures": [
+        "textures/blocks/eeeeeeeeeennnnnnnnnnndddddddd"
+      ]
+    },
+    "our_first_end_mod_endshroomy_east": {
+      "textures": [
+        "textures/blocks/eeeeeeeeeennnnnnnnnnndddddddd"
+      ]
+    },
+    "our_first_end_mod_endera_ore_up": {
+      "textures": [
+        "textures/blocks/endera_ore"
+      ]
+    },
+    "our_first_end_mod_endera_ore_down": {
+      "textures": [
+        "textures/blocks/endera_ore"
+      ]
+    },
+    "our_first_end_mod_endera_ore_south": {
+      "textures": [
+        "textures/blocks/endera_ore"
+      ]
+    },
+    "our_first_end_mod_endera_ore_north": {
+      "textures": [
+        "textures/blocks/endera_ore"
+      ]
+    },
+    "our_first_end_mod_endera_ore_west": {
+      "textures": [
+        "textures/blocks/endera_ore"
+      ]
+    },
+    "our_first_end_mod_endera_ore_east": {
+      "textures": [
+        "textures/blocks/endera_ore"
+      ]
+    },
+    "our_first_end_mod_endera_block_up": {
+      "textures": [
+        "textures/blocks/endera_ore_block"
+      ]
+    },
+    "our_first_end_mod_endera_block_down": {
+      "textures": [
+        "textures/blocks/endera_ore_block"
+      ]
+    },
+    "our_first_end_mod_endera_block_south": {
+      "textures": [
+        "textures/blocks/endera_ore_block"
+      ]
+    },
+    "our_first_end_mod_endera_block_north": {
+      "textures": [
+        "textures/blocks/endera_ore_block"
+      ]
+    },
+    "our_first_end_mod_endera_block_west": {
+      "textures": [
+        "textures/blocks/endera_ore_block"
+      ]
+    },
+    "our_first_end_mod_endera_block_east": {
+      "textures": [
+        "textures/blocks/endera_ore_block"
+      ]
+    },
+    "our_first_end_mod_endra_ore_up": {
+      "textures": [
+        "textures/blocks/endra_ore"
+      ]
+    },
+    "our_first_end_mod_endra_ore_down": {
+      "textures": [
+        "textures/blocks/endra_ore"
+      ]
+    },
+    "our_first_end_mod_endra_ore_south": {
+      "textures": [
+        "textures/blocks/endra_ore"
+      ]
+    },
+    "our_first_end_mod_endra_ore_north": {
+      "textures": [
+        "textures/blocks/endra_ore"
+      ]
+    },
+    "our_first_end_mod_endra_ore_west": {
+      "textures": [
+        "textures/blocks/endra_ore"
+      ]
+    },
+    "our_first_end_mod_endra_ore_east": {
+      "textures": [
+        "textures/blocks/endra_ore"
+      ]
+    },
+    "our_first_end_mod_endra_block_up": {
+      "textures": [
+        "textures/blocks/endra_ore_block"
+      ]
+    },
+    "our_first_end_mod_endra_block_down": {
+      "textures": [
+        "textures/blocks/endra_ore_block"
+      ]
+    },
+    "our_first_end_mod_endra_block_south": {
+      "textures": [
+        "textures/blocks/endra_ore_block"
+      ]
+    },
+    "our_first_end_mod_endra_block_north": {
+      "textures": [
+        "textures/blocks/endra_ore_block"
+      ]
+    },
+    "our_first_end_mod_endra_block_west": {
+      "textures": [
+        "textures/blocks/endra_ore_block"
+      ]
+    },
+    "our_first_end_mod_endra_block_east": {
+      "textures": [
+        "textures/blocks/endra_ore_block"
+      ]
+    },
+    "our_first_end_mod_happyblock_up": {
+      "textures": [
+        "textures/blocks/screenshot_2023-01-04_112711"
+      ]
+    },
+    "our_first_end_mod_happyblock_down": {
+      "textures": [
+        "textures/blocks/screenshot_2023-01-04_112711"
+      ]
+    },
+    "our_first_end_mod_happyblock_south": {
+      "textures": [
+        "textures/blocks/screenshot_2023-01-04_112711"
+      ]
+    },
+    "our_first_end_mod_happyblock_north": {
+      "textures": [
+        "textures/blocks/screenshot_2023-01-04_112711"
+      ]
+    },
+    "our_first_end_mod_happyblock_west": {
+      "textures": [
+        "textures/blocks/screenshot_2023-01-04_112711"
+      ]
+    },
+    "our_first_end_mod_happyblock_east": {
+      "textures": [
+        "textures/blocks/screenshot_2023-01-04_112711"
+      ]
     }
   }
 }

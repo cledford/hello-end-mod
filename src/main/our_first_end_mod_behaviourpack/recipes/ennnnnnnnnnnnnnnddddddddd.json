@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:ennnnnnnnnnnnnnnddddddddd"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "a"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:ender_pearl"
+      }
+    },
+    "result": {
+      "item": "our_first_end_mod:endshroomy",
+      "count": 1
+    }
+  }
+}

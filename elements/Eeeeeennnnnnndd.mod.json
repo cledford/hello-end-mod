@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bunnofeyesword"
+      },
+      {
+        "value": "CUSTOM:Bladeofeyesword"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Eye"
+      },
+      {
+        "value": "CUSTOM:Bunnofeyesword"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Eyesword"
+    },
+    "name": "eeeeeennnnnnndd",
+    "namespace": "mod"
+  }
+}

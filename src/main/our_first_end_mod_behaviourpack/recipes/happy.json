@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:happy"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "a"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "result": {
+      "item": "our_first_end_mod:happ",
+      "count": 1
+    }
+  }
+}

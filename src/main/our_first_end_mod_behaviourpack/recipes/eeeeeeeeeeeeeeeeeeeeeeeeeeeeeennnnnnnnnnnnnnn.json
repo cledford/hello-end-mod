@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:eeeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnnn"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " a",
+      "b "
+    ],
+    "key": {
+      "a": {
+        "item": "our_first_end_mod:enderstick"
+      },
+      "b": {
+        "item": "our_first_end_mod:custom_end_gemstone"
+      }
+    },
+    "result": {
+      "item": "our_first_end_mod:entherstick",
+      "count": 1
+    }
+  }
+}

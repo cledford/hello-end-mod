@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "our_first_end_mod:endshroom",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "endshroom",
+      "minecraft:render_offsets": "apple",
+      "minecraft:use_animation": "eat",
+      "minecraft:creative_category": "Items"
+    }
+  }
+}

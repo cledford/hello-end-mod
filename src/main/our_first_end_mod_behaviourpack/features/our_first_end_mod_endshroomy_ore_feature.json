@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "our_first_end_mod:our_first_end_mod_endshroomy_ore_feature"
+    },
+    "count": 6,
+    "replace_rules": [
+      {
+        "places_block": "our_first_end_mod:endshroomy",
+        "may_replace": [
+          "minecraft:air"
+        ]
+      }
+    ]
+  }
+}

@@ -21,5 +21,93 @@
       "east": "our_first_end_mod_end_gem_stone_block_east"
     },
     "sound": "gravel"
+  },
+  "our_first_end_mod:endgrassblock": {
+    "textures": {
+      "up": "our_first_end_mod_endgrassblock_up",
+      "down": "our_first_end_mod_endgrassblock_down",
+      "south": "our_first_end_mod_endgrassblock_south",
+      "north": "our_first_end_mod_endgrassblock_north",
+      "west": "our_first_end_mod_endgrassblock_west",
+      "east": "our_first_end_mod_endgrassblock_east"
+    },
+    "sound": "gravel"
+  },
+  "our_first_end_mod:enerwater": {
+    "textures": {
+      "up": "our_first_end_mod_enerwater_up",
+      "down": "our_first_end_mod_enerwater_down",
+      "south": "our_first_end_mod_enerwater_south",
+      "north": "our_first_end_mod_enerwater_north",
+      "west": "our_first_end_mod_enerwater_west",
+      "east": "our_first_end_mod_enerwater_east"
+    },
+    "sound": "snow"
+  },
+  "our_first_end_mod:endshroomy": {
+    "textures": {
+      "up": "our_first_end_mod_endshroomy_up",
+      "down": "our_first_end_mod_endshroomy_down",
+      "south": "our_first_end_mod_endshroomy_south",
+      "north": "our_first_end_mod_endshroomy_north",
+      "west": "our_first_end_mod_endshroomy_west",
+      "east": "our_first_end_mod_endshroomy_east"
+    },
+    "sound": "grass"
+  },
+  "our_first_end_mod:endera_ore": {
+    "textures": {
+      "up": "our_first_end_mod_endera_ore_up",
+      "down": "our_first_end_mod_endera_ore_down",
+      "south": "our_first_end_mod_endera_ore_south",
+      "north": "our_first_end_mod_endera_ore_north",
+      "west": "our_first_end_mod_endera_ore_west",
+      "east": "our_first_end_mod_endera_ore_east"
+    },
+    "sound": "stone"
+  },
+  "our_first_end_mod:endera_block": {
+    "textures": {
+      "up": "our_first_end_mod_endera_block_up",
+      "down": "our_first_end_mod_endera_block_down",
+      "south": "our_first_end_mod_endera_block_south",
+      "north": "our_first_end_mod_endera_block_north",
+      "west": "our_first_end_mod_endera_block_west",
+      "east": "our_first_end_mod_endera_block_east"
+    },
+    "sound": "metal"
+  },
+  "our_first_end_mod:endra_ore": {
+    "textures": {
+      "up": "our_first_end_mod_endra_ore_up",
+      "down": "our_first_end_mod_endra_ore_down",
+      "south": "our_first_end_mod_endra_ore_south",
+      "north": "our_first_end_mod_endra_ore_north",
+      "west": "our_first_end_mod_endra_ore_west",
+      "east": "our_first_end_mod_endra_ore_east"
+    },
+    "sound": "stone"
+  },
+  "our_first_end_mod:endra_block": {
+    "textures": {
+      "up": "our_first_end_mod_endra_block_up",
+      "down": "our_first_end_mod_endra_block_down",
+      "south": "our_first_end_mod_endra_block_south",
+      "north": "our_first_end_mod_endra_block_north",
+      "west": "our_first_end_mod_endra_block_west",
+      "east": "our_first_end_mod_endra_block_east"
+    },
+    "sound": "metal"
+  },
+  "our_first_end_mod:happyblock": {
+    "textures": {
+      "up": "our_first_end_mod_happyblock_up",
+      "down": "our_first_end_mod_happyblock_down",
+      "south": "our_first_end_mod_happyblock_south",
+      "north": "our_first_end_mod_happyblock_north",
+      "west": "our_first_end_mod_happyblock_west",
+      "east": "our_first_end_mod_happyblock_east"
+    },
+    "sound": "gravel"
   }
 }

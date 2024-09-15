@@ -1,0 +1,677 @@
+{
+  "mod_elements": [
+    {
+      "name": "Obsidiend",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidiend",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/blocks/obsidiend.json",
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_obsidiend.json"
+        ]
+      }
+    },
+    {
+      "name": "CustomEndGemstone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_end_gemstone",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/custom_end_gemstone.json",
+          "src/main/our_first_end_mod_behaviourpack/items/custom_end_gemstone.json"
+        ]
+      }
+    },
+    {
+      "name": "EndGemStoneBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_gem_stone_block",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/blocks/end_gem_stone_block.json",
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_end_gem_stone_block.json"
+        ]
+      }
+    },
+    {
+      "name": "EndGemstoneBlockRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_gemstone_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/end_gemstone_block_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EndScythe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_scythe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/end_scythe.json",
+          "src/main/our_first_end_mod_behaviourpack/items/end_scythe.json"
+        ]
+      }
+    },
+    {
+      "name": "Enderstick",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enderstick",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/enderstick.json",
+          "src/main/our_first_end_mod_behaviourpack/items/enderstick.json"
+        ]
+      }
+    },
+    {
+      "name": "Entherstick",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entherstick",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/entherstick.json",
+          "src/main/our_first_end_mod_resourcepack/items/entherstick.json"
+        ]
+      }
+    },
+    {
+      "name": "Thehive",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thehive",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/entities/thehive.json",
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/entities/our_first_end_mod_thehive.json",
+          "src/main/our_first_end_mod_behaviourpack/spawn_rules/thehive.json",
+          "src/main/our_first_end_mod_resourcepack/entity/thehive.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "Ennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/ennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.json"
+        ]
+      }
+    },
+    {
+      "name": "Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnnn",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnnn",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeennnnnnnnnnnnnnn.json"
+        ]
+      }
+    },
+    {
+      "name": "Endgrassblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endgrassblock",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/blocks/endgrassblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Ender",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/biomes/ender.json"
+        ]
+      }
+    },
+    {
+      "name": "Fire1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_1",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/fire_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Fire2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_2",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/fire_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Endeye",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endeye",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/endeye.json",
+          "src/main/our_first_end_mod_behaviourpack/items/endeye.json"
+        ]
+      }
+    },
+    {
+      "name": "Endeye1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endeye_1",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endeye_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Enerwater",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enerwater",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_enerwater.json",
+          "src/main/our_first_end_mod_behaviourpack/blocks/enerwater.json"
+        ]
+      }
+    },
+    {
+      "name": "Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.json"
+        ]
+      }
+    },
+    {
+      "name": "Eeeeeeeeeeeeeeeeeeeee",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eeeeeeeeeeeeeeeeeeeee",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/eeeeeeeeeeeeeeeeeeeee.json"
+        ]
+      }
+    },
+    {
+      "name": "Eeeeeennnnnnnnnnnnnnnnnnnnnnnnn",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eeeeeennnnnnnnnnnnnnnnnnnnnnnnn",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/eeeeeennnnnnnnnnnnnnnnnnnnnnnnn.json"
+        ]
+      }
+    },
+    {
+      "name": "Eeennddd",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eeennddd",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/eeennddd.json"
+        ]
+      }
+    },
+    {
+      "name": "Happ",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "happ",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/happ.json",
+          "src/main/our_first_end_mod_resourcepack/items/happ.json"
+        ]
+      }
+    },
+    {
+      "name": "Happy",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "happy",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/happy.json"
+        ]
+      }
+    },
+    {
+      "name": "Endshroom",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endshroom",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/endshroom.json",
+          "src/main/our_first_end_mod_behaviourpack/items/endshroom.json"
+        ]
+      }
+    },
+    {
+      "name": "Endshroomy",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endshroomy",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_endshroomy.json",
+          "src/main/our_first_end_mod_behaviourpack/features/our_first_end_mod_endshroomy_ore_feature.json",
+          "src/main/our_first_end_mod_behaviourpack/blocks/endshroomy.json",
+          "src/main/our_first_end_mod_behaviourpack/feature_rules/our_first_end_mod_endshroomy_ore_feature_rule.json"
+        ]
+      }
+    },
+    {
+      "name": "Ennnnnnnnnnnnnnnddddddddd",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ennnnnnnnnnnnnnnddddddddd",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/ennnnnnnnnnnnnnnddddddddd.json"
+        ]
+      }
+    },
+    {
+      "name": "EndelStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endel_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endel_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AndelSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andel_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/andel_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderaDust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera_dust",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/endera_dust.json",
+          "src/main/our_first_end_mod_resourcepack/items/endera_dust.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderaOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera_ore",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/feature_rules/our_first_end_mod_endera_ore_ore_feature_rule.json",
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_endera_ore.json",
+          "src/main/our_first_end_mod_behaviourpack/features/our_first_end_mod_endera_ore_ore_feature.json",
+          "src/main/our_first_end_mod_behaviourpack/blocks/endera_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderaBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera_block",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/blocks/endera_block.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderaOreBlockRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera_ore_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endera_ore_block_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderaBlockOreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endera_block_ore_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderaOreSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endera_ore_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "Endra",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endra",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/endra.json",
+          "src/main/our_first_end_mod_resourcepack/items/endra.json"
+        ]
+      }
+    },
+    {
+      "name": "EndraOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endra_ore",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/blocks/endra_ore.json",
+          "src/main/our_first_end_mod_behaviourpack/features/our_first_end_mod_endra_ore_ore_feature.json",
+          "src/main/our_first_end_mod_behaviourpack/feature_rules/our_first_end_mod_endra_ore_ore_feature_rule.json",
+          "src/main/our_first_end_mod_behaviourpack/loot_tables/blocks/our_first_end_mod_endra_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "EndraBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endra_block",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/blocks/endra_block.json"
+        ]
+      }
+    },
+    {
+      "name": "EndraOreBlockRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endra_ore_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endra_ore_block_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EndraBlockOreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endra_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endra_block_ore_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EndraOreSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endra_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endra_ore_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "EndriSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endri_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endri_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Enderasword",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enderasword",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/enderasword.json",
+          "src/main/our_first_end_mod_behaviourpack/items/enderasword.json"
+        ]
+      }
+    },
+    {
+      "name": "Endera",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endera",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/recipes/endera.json"
+        ]
+      }
+    },
+    {
+      "name": "Endri",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endri",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/endri.json",
+          "src/main/our_first_end_mod_resourcepack/items/endri.json"
+        ]
+      }
+    },
+    {
+      "name": "Eye",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eye",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/eye.json",
+          "src/main/our_first_end_mod_behaviourpack/items/eye.json"
+        ]
+      }
+    },
+    {
+      "name": "Eyesword",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eyesword",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/eyesword.json",
+          "src/main/our_first_end_mod_resourcepack/items/eyesword.json"
+        ]
+      }
+    },
+    {
+      "name": "Topofeyesword",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "topofeyesword",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/topofeyesword.json",
+          "src/main/our_first_end_mod_resourcepack/items/topofeyesword.json"
+        ]
+      }
+    },
+    {
+      "name": "Liqideyesworddanglingthing",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liqideyesworddanglingthing",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_behaviourpack/items/liqideyesworddanglingthing.json",
+          "src/main/our_first_end_mod_resourcepack/items/liqideyesworddanglingthing.json"
+        ]
+      }
+    },
+    {
+      "name": "Bladeofeyesword",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bladeofeyesword",
+      "metadata": {
+        "files": [
+          "src/main/our_first_end_mod_resourcepack/items/bladeofeyesword.json",
+          "src/main/our_first_end_mod_behaviourpack/items/bladeofeyesword.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "tile.our_first_end_mod:endera_block.name": "Block of Endera",
+      "item.our_first_end_mod:enderasword.name": "Enderasword",
+      "tile.our_first_end_mod:endshroomy.name": "Endshroomy",
+      "item.our_first_end_mod:endra.name": "Endra",
+      "item.our_first_end_mod:endera_dust.name": "Endera",
+      "item.our_first_end_mod:eye.name": "Eye_stick",
+      "item.our_first_end_mod:eyesword.name": "Eyesword",
+      "item.our_first_end_mod:enderstick.name": "Enderstick",
+      "item.our_first_end_mod:happ.name": "Happ",
+      "tile.our_first_end_mod:endra_ore.name": "Endra Ore",
+      "item.our_first_end_mod:custom_end_gemstone.name": "End Gemstone",
+      "tile.our_first_end_mod:endra_block.name": "Block of Endra",
+      "item.our_first_end_mod:end_scythe.name": "End Scythe",
+      "tile.our_first_end_mod:endera_ore.name": "Endera Ore",
+      "item.spawn_egg.entity.our_first_end_mod:thehive.name": "Thehive Spawn Egg",
+      "item.our_first_end_mod:endri.name": "Endri",
+      "item.our_first_end_mod:topofeyesword.name": "Topofeyesword",
+      "tile.our_first_end_mod:obsidiend.name": "Obsidiend",
+      "tile.our_first_end_mod:endgrassblock.name": "Endgrassblock",
+      "item.our_first_end_mod:entherstick.name": "Entherstick",
+      "item.our_first_end_mod:endshroom.name": "Endshroom",
+      "tile.our_first_end_mod:enerwater.name": "Enerwater",
+      "tile.our_first_end_mod:end_gem_stone_block.name": "End Gem Stone Block",
+      "item.our_first_end_mod:bladeofeyesword.name": "Bladeofeyesword",
+      "item.our_first_end_mod:liqideyesworddanglingthing.name": "Liqideyesworddanglingthing",
+      "item.our_first_end_mod:endeye.name": "Endeye"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "our_first_end_mod",
+    "modName": "Our First End Mod",
+    "version": "1.0.0",
+    "author": "Corey.Ledford, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.20.x",
+    "modElementsPackage": "net.mcreator.ourfirstendmod"
+  },
+  "mcreatorVersion": 202400232117
+}

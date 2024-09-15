@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:eeeeeennnnnnndd"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ab",
+      "ca"
+    ],
+    "key": {
+      "a": {
+        "item": "our_first_end_mod:bunnofeyesword"
+      },
+      "b": {
+        "item": "our_first_end_mod:bladeofeyesword"
+      },
+      "c": {
+        "item": "our_first_end_mod:eye"
+      }
+    },
+    "result": {
+      "item": "our_first_end_mod:eyesword",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "Blocks.WOODEN_SLAB#0"
+    },
+    "brewingIngredientStack": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:Liqideyesworddanglingthing"
+    },
+    "name": "eeennnd",
+    "namespace": "mod"
+  }
+}

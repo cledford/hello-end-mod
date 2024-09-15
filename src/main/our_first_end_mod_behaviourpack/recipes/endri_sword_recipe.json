@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:endri_sword_recipe"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "a",
+      "a",
+      "b"
+    ],
+    "key": {
+      "a": {
+        "item": "our_first_end_mod:endra"
+      },
+      "b": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "our_first_end_mod:endri_sword",
+      "count": 1
+    }
+  }
+}

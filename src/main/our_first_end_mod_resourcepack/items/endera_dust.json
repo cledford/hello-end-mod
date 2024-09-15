@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "our_first_end_mod:endera_dust",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "endera_dust",
+      "minecraft:render_offsets": "apple",
+      "minecraft:creative_category": "Items"
+    }
+  }
+}

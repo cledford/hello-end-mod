@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "our_first_end_mod:fire_2"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:torch"
+    },
+    "output": {
+      "item": "minecraft:fire"
+    }
+  }
+}

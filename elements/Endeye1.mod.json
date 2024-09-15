@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SOUL_FIRE"
+      },
+      {
+        "value": "Items.GOLDEN_SWORD"
+      },
+      {
+        "value": "Blocks.SOUL_FIRE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Endeye"
+    },
+    "name": "endeye_1",
+    "namespace": "mod"
+  }
+}

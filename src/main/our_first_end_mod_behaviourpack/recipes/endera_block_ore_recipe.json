@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "our_first_end_mod:endera_block_ore_recipe"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "our_first_end_mod:endera_block"
+      }
+    ],
+    "result": {
+      "item": "our_first_end_mod:endera_dust",
+      "count": 9
+    }
+  }
+}

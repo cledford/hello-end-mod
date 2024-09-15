@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "our_first_end_mod:eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:flowing_water"
+      },
+      {
+        "item": "minecraft:hay_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:flowing_lava",
+      "count": 1
+    }
+  }
+}

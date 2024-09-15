@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:eeeeennnnddd"
+    },
+    "groups": [
+      "our_first_end_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ab"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:command_block"
+      },
+      "b": {
+        "item": "our_first_end_mod:endeye"
+      }
+    },
+    "result": {
+      "item": "our_first_end_mod:topofeyesword",
+      "count": 1
+    }
+  }
+}

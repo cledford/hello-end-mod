@@ -2,11 +2,62 @@
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.items",
   "texture_data": {
+    "endeye": {
+      "textures": "textures/items/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "eyesword": {
+      "textures": "textures/items/eye"
+    },
     "end_scythe": {
       "textures": "textures/items/soulenderscythe"
     },
+    "bladeofeyesword": {
+      "textures": "textures/items/blade_of_eye_sword"
+    },
+    "topofeyesword": {
+      "textures": "textures/items/top_of_eye_sword"
+    },
+    "entherstick": {
+      "textures": "textures/items/end_stick"
+    },
+    "endra": {
+      "textures": "textures/items/endra_gem"
+    },
+    "happ": {
+      "textures": "textures/items/happ"
+    },
+    "endera_dust": {
+      "textures": "textures/items/endera_dust"
+    },
+    "endri": {
+      "textures": "textures/items/endra"
+    },
+    "eye": {
+      "textures": "textures/items/eye_stick"
+    },
+    "liqideyesworddanglingthing": {
+      "textures": "textures/items/liqid_eye_sword_dangling_thing"
+    },
+    "enderstick": {
+      "textures": "textures/items/ender_stick"
+    },
+    "endshroom": {
+      "textures": "textures/items/eeeeeeeeennnnnnnnnnnnn"
+    },
+    "enderasword": {
+      "textures": "textures/items/endera_sword"
+    },
+    "soulsteel": {
+      "textures": "textures/items/soul_steel"
+    },
+    "endscythetop": {
+      "textures": "textures/items/scythe_top_piece"
+    },
     "custom_end_gemstone": {
       "textures": "textures/items/endgemstone"
+    },
+    "bunnofeyesword": {
+      "textures": "textures/items/bbbbbbbbuuuuuuuuuuuunnnnnnnnnnnnnnnss"
     }
   }
 }

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "our_first_end_mod:endel_stick_recipe"
+    },
+    "groups": [
+      "sticks"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "a",
+      "a"
+    ],
+    "key": {
+      "a": {
+        "item": "our_first_end_mod:endel_planks"
+      }
+    },
+    "result": {
+      "item": "minecraft:stick",
+      "count": 4
+    }
+  }
+}
